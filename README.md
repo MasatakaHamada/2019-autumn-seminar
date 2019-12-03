@@ -34,3 +34,10 @@
 - 伊藤の公式の多次元版が紹介された
 - 伊藤の公式の応用例が紹介された
 - 次回からテキストが変更となる
+## Le Gall
+### 2019/12/03
+- 確率微分方程式が導入される動機付けを確認した
+- 確率微分方程式およびその解を定義した
+- 確率微分方程式のweak existence，weak existence and weak uniqueness，pathwise uniquenessを定義した
+- 例として平方ベッセル過程を見た
+- weak existence and weak uniquenessを満たすがpathwise uniquenessを満たさない例を見た
